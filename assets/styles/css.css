@@ -1,0 +1,28 @@
+/* General Styles */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    max-width: 1440px;
+}
+
+/* Header */
+
+
+/* Main */
+form {
+    margin: 200px auto;
+    display: block;
+    text-align: center;
+}
+
+input{
+    margin-right: 30px;
+}
+/* Footer */
